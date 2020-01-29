@@ -9,7 +9,7 @@ for i in range(0,100):
         
         
         
-#
+'''
  Sample input:
  Enter the number:2
  
@@ -65,4 +65,4 @@ for i in range(0,100):
 95
 97
 99
-#
+'''
