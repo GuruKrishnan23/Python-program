@@ -11,7 +11,7 @@ for i in range(0,100):
         
 '''
  Sample input:
- Enter the number:2
+ Enter the number:100
  
  
  Sample output:
